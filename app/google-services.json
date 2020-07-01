@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "833910181654",
+    "firebase_url": "https://thoughts-and-quotations.firebaseio.com",
+    "project_id": "thoughts-and-quotations",
+    "storage_bucket": "thoughts-and-quotations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833910181654:android:79202f03247497d23aca37",
+        "android_client_info": {
+          "package_name": "com.example.splashscreeen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833910181654-n9b1pmfiuqdbjhfat358ud2dhrgf13ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1cnzV0ZTQQX-d8mAQwr7Zpkaiy8Z73ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833910181654-n9b1pmfiuqdbjhfat358ud2dhrgf13ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
